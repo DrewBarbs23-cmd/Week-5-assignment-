@@ -1,0 +1,11 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  min-height: calc(100vh - 140px);
+}
+
+.card {
+  border: none;
+}
